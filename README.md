@@ -3,7 +3,7 @@
 ## 🤓 Course overview and learning outcomes 
 ![](Imagenes/logo.png)
 
-```
+```C#
 public String Mostrar()
         {
             return "\nNo. Empelado     : " + noEmpleado +
