@@ -14,11 +14,11 @@ public String Mostrar()
         }
 ```
 
-##Conexion servidor Ubuntu
+## Conexion servidor Ubuntu
 
 ![](Imagenes/conexion1.png)
 
-##Archivo pasado a maquina Ubuntu
+## Archivo pasado a maquina Ubuntu
 
 ![](Imagenes/conexion2.png)
 
