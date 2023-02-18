@@ -28,9 +28,6 @@ GitHub is home to some of the most advanced technologies in the world. Whether y
 
 The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
 
-### Repositories
-
-A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files.
 
 ### Cloning 
 
